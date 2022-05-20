@@ -10,7 +10,6 @@
 - 🎬 Meu filme favorito atualmente é "Á Procura da Felicidade" 🎬
 - 📫 Vamos trocar uma ideia? me manda um dm! 📫 <br>
 
-  * 💬 Twitter : <a href="https://twitter.com/nascimento3ric">@nascimento3ric</a>
   * 📸 Instagram : <a href="https://www.instagram.com/ericnascimentr/">@ericnascimentor</a><br>
   * 💬 Linkedin : <a href="https://www.linkedin.com/in/eric-dagostim-nascimento/">eric-dagostim-nascimento</a>
 
