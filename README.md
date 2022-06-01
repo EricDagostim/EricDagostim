@@ -26,4 +26,4 @@ Aqui sou eu.
 
 <br>
 
-* Behance : <a href="https://www.behance.net/ricnascimento">Éric Nascimento</a><br>
+* 🎨 Behance : <a href="https://www.behance.net/ricnascimento">Éric Nascimento</a><br>
