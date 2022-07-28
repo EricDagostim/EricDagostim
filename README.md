@@ -11,7 +11,6 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
 - 💘 Apaixonado por front-end e UX/UI Design; <br>
 - 📜 Cursando Análise e Desenvolvimento de Sistemas (SENAC); <br>
 - 👓 Utilizo Bootstrap 5, HTML5, CSS3, JS e Figma; <br>
-- 🤔 No momento to ouvindo qualquer playlist aleatória e inventando coisa<br>
 <hr></hr>
 Aqui sou eu.
 
