@@ -12,7 +12,7 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
 - 📜 Cursando Análise e Desenvolvimento de Sistemas (SENAC); <br>
 - 👓 Utilizo Bootstrap 5, HTML5, CSS3, JS e Figma; <br>
 <hr></hr>
-Aqui sou eu.
+Eu aqui.
 
   * 📸 Instagram : <a href="https://www.instagram.com/ericnascimentr/">@ericnascimentor</a><br>
 
