@@ -5,6 +5,8 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
  não só para mostrar o que eu sei fazer, mas principalmente para testar e aprender<br>
  umas brincadeirinhas novas :) então aproveita e já dá uma olhadinha neles.
  <br> <br>
+ No momento mexendo com este projeto: <a href="https://ericdagostim.github.io/web-brand.github.io/">https://ericdagostim.github.io/web-brand.github.io/</a>
+ <br><br>
  
 <hr></hr>
 - 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
