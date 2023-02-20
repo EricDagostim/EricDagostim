@@ -9,9 +9,10 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
  <br><br>
  
 <hr></hr>
-- 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
-- 📜 Cursando Análise e Desenvolvimento de Sistemas (SENAC); <br>
-- 💘 Apaixonado por front-end e UX/UI Design; <br>
+💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
+📜 Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC); <br>
+💘 Apaixonado por front-end e UX/UI Design; <br>
+<hr></hr>
 
 ### Estou Usando:
 
@@ -46,9 +47,6 @@ Eu aqui.
 <br>
 
   * 💬 Linkedin : <a href="https://www.linkedin.com/in/eric-dagostim-nascimento/">eric-dagostim-nascimento</a> <br>
-<br>
-
-* 🐦 Twitter : <a href="https://twitter.com/nascimento3ric">nascimento3ric</a> <br>
 
 <br>
 
