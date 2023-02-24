@@ -8,11 +8,11 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
  No momento mexendo com este projeto: <a href="https://ericdagostim.github.io/ninja-phrase/" target="_blank">Acessar Ninja Phrase!</a>
  <br><br>
  
-<hr></hr>
+<!-- <hr></hr> -->
 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
 📜 Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC); <br>
 💘 Apaixonado por front-end e UX/UI Design; <br>
-<hr></hr>
+<!-- <hr></hr> -->
 
 ### Estou Usando:
 
@@ -38,16 +38,3 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 </div>
-
-<hr></hr>
-Eu aqui.
-
-  * 📸 Instagram : <a href="https://www.instagram.com/ericnascimentr/">@ericnascimentor</a><br>
-
-<br>
-
-  * 💬 Linkedin : <a href="https://www.linkedin.com/in/eric-dagostim-nascimento/">eric-dagostim-nascimento</a> <br>
-
-<br>
-
-* 🎨 Behance : <a href="https://www.behance.net/ricnascimento">Éric Nascimento</a><br>
