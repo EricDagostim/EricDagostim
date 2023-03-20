@@ -1,5 +1,6 @@
-
- <h3>Oiii, Bem vindo(a)</h3>
+<img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; float: right">
+ 
+<h3>Oiii, Bem vindo(a)</h3>
  
 Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
  não só para mostrar o que eu sei fazer, mas principalmente para testar e aprender<br>
@@ -38,3 +39,6 @@ Aqui você vai encontrar alguns dos meus projetos, eles existem <br>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 </div>
+
+
+
