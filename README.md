@@ -8,15 +8,12 @@
 	
         
 <img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">
- <br><br>
- 
- 
- 
-<!-- <hr></hr> -->
+
+<hr></hr>
+
 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
 📜 Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC); <br>
 💘 Apaixonado por front-end e UX/UI Design; <br>
-<!-- <hr></hr> -->
 
 ### Estou Usando:
 
