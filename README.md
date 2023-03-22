@@ -5,10 +5,6 @@
             umas brincadeirinhas novas então aproveita e já dá uma olhadinha neles.
         </p>
         No momento mexendo com este projeto: <a style="border-radius: 5px; background-color: #00000033; padding: 5px; color: white ;" href="https://ericdagostim.github.io/ninja-phrase/" target="_blank">Acessar Ninja Phrase!</a>
-	
-        
-<img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">
-
 <hr></hr>
 
 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
@@ -36,6 +32,10 @@
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 </div>
+
+<br>
+
+<img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">
 
 
 
