@@ -6,8 +6,8 @@
  <h3 align="center">Opaa, Bem vindo(a)! ❤</h3>
 	<p align="center">
             Aqui você vai encontrar alguns dos meus <strong>projetos</strong> , eles existem
-            não só para mostrar o que eu sei fazer, mas principalmente para testar e aprender
-            umas brincadeirinhas novas então aproveita e já dá uma olhadinha neles.
+            não só <br> para mostrar o que eu sei fazer, mas principalmente para testar e aprender
+             <br> umas brincadeirinhas novas então aproveita e já dá uma olhadinha neles.
         </p>
 	<div align="center">
 		No momento mexendo com este projeto: <a href="https://ericdagostim.github.io/ninja-phrase/" target="_blank">Acessar Ninja Phrase!</a>
