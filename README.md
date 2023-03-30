@@ -1,19 +1,33 @@
- <h3>Opaa, Bem vindo(a)! ❤</h3>
-	<p>
-            Aqui você vai encontrar alguns dos meus projetos, eles existem
+<div align="center">
+<img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">
+</div> 
+ 
+ 
+ <h3 align="center">Opaa, Bem vindo(a)! ❤</h3>
+	<p align="center">
+            Aqui você vai encontrar alguns dos meus <strong>projetos</strong> , eles existem
             não só para mostrar o que eu sei fazer, mas principalmente para testar e aprender
             umas brincadeirinhas novas então aproveita e já dá uma olhadinha neles.
         </p>
-        No momento mexendo com este projeto: <a style="border-radius: 5px; background-color: #00000033; padding: 5px; color: white ;" href="https://ericdagostim.github.io/ninja-phrase/" target="_blank">Acessar Ninja Phrase!</a>
+	<div align="center">
+		No momento mexendo com este projeto: <a href="https://ericdagostim.github.io/ninja-phrase/" target="_blank">Acessar Ninja Phrase!</a>
+	</div>
+	
+        
 <hr></hr>
 
+<div align="center">
 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
 📜 Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC); <br>
 💘 Apaixonado por front-end e UX/UI Design; <br>
+</div>
 
+<div align="center">
+	
+	
 ### Estou Usando:
 
-<div align="left">
+<div>
     <code><img height="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" /></code>
     <code><img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
@@ -26,16 +40,18 @@
 </div>
 
 ### Estou Aprendendo:
-<div align="left"> 
+<div> 
     <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 </div>
-
 <br>
+</div>
 
-<img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">
+
+
+
 
 
 
