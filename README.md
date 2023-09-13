@@ -5,21 +5,16 @@
  
  <h3 align="center">Opaa, Bem vindo(a)! ❤</h3>
 	<p align="center">
-            Aqui você vai encontrar alguns dos meus <strong>projetos</strong> , eles existem
-            não só <br> para mostrar o que eu sei fazer, mas principalmente para testar e aprender
+            Aqui você vai encontrar alguns dos meus <strong>projetos</strong>, eles existem para testar e aprender
              <br> umas brincadeirinhas novas então aproveita e já dá uma olhadinha neles.
         </p>
-	<div align="center">
-		No momento mexendo com este projeto: <a href="https://ericdagostim.github.io/ninja-phrase/" target="_blank">Acessar Ninja Phrase!</a>
-	</div>
-	
-        
+	        
 <hr></hr>
 
 <div align="center">
 💻 Atualmente no desenvolvimento web da Diretoria de TI na prefeitura de Criciúma; <br>
 📜 Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC); <br>
-💘 Apaixonado por front-end e UX/UI Design; <br>
+💘 Apaixonado por front-end e UX/UI Design. <br>
 </div>
 
 <div align="center">
@@ -41,11 +36,11 @@
 
 ### Estou Aprendendo:
 <div> 
-    <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
-	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code>
-	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
-	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
+
+<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
+	
 </div>
 <br>
 </div>
