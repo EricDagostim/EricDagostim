@@ -1,6 +1,10 @@
-<div align="center">
-<img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">
+<div align="center" style="height: 300px; max-width: 50%;">
+<!-- <img src="https://ik.imagekit.io/eihfcduyu/octocat-eric.png?updatedAt=1679316250765" alt="OctoCat Éric Nascimento" style="height: 300px; max-width: 50%;">-->
+
+![Gif teste](./gif-app-malfoy.gif)
+ 
 </div> 
+
 
 <h1 align="center">Projeto mais recente: <a href="https://malfoy-o-bibliomantico.vercel.app/">Malfoy o gato bibliomântico</a></h1>
  
